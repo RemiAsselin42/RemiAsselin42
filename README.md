@@ -17,11 +17,6 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RemiAsselin42&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ✍️ A wise person once said...
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=RemiAsselin42&icon=0&color=7)](https://visitcount.itsvg.in)
-
 ## 💰 If you're feeling generous :)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/remiasselin) 
 
