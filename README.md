@@ -6,7 +6,7 @@
 
 ## 🌐 Visit my website
 
-<a href="remiasselin.com" target="_blank">remiasselin.com</a> 
+<a href="https://www.remiasselin.com" target="_blank">remiasselin.com</a> 
 
 ## 📩 Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rémi-asselin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:remiasselin42@gmail.com) 
