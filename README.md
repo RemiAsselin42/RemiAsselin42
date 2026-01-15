@@ -1,6 +1,6 @@
 # <b>Hello !</b> 
 
-### My name is <em>Rémi</em>, I'm a 20yo frontend developper, and a web designer too !
+### My name is <em>Rémi</em>, I'm a 21yo frontend developper, and a web designer too !
 
 #### When it comes to creating a website, I can take care of (almost) everything! From UX mock-up and user testing, through design and selection of colors and fonts, all the way up to front-end integration, using your favorite CMS, classic HTML, or designing a complete React application !
 
