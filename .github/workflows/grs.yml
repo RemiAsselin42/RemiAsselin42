@@ -11,6 +11,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      DOB: "2005-01-12"
     steps:
       - uses: actions/checkout@v4
 
@@ -21,6 +23,16 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact
           path: profile/top-langs.svg
           token: ${{ secrets.GH_PV_REPO_TOKEN }}
+
+      - name: Update README age
+        run: |
+          current_year=$(date -u +%Y)
+          birth_year=$(date -u -d "$DOB" +%Y)
+          age=$((current_year - birth_year))
+          if [ "$(date -u +%m%d)" -lt "$(date -u -d "$DOB" +%m%d)" ]; then
+            age=$((age - 1))
+          fi
+          sed -i "s/I'm a [0-9]\+yo/I'm a ${age}yo/" README.md
 
       - name: Update README cache buster
         run: |
