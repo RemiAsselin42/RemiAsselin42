@@ -18,7 +18,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://raw.githubusercontent.com/RemiAsselin42/RemiAsselin42/main/profile/top-langs.svg?v=1774414394)
+![Top Langs](https://raw.githubusercontent.com/RemiAsselin42/RemiAsselin42/main/profile/top-langs.svg?v=1774501538)
 
 ## 💰 If you're feeling generous :)
 
