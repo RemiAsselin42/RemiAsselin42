@@ -39,10 +39,10 @@ jobs:
           ts=$(date +%s)
           sed -i "s|top-langs.svg?v=[0-9]*|top-langs.svg?v=$ts|g" README.md
 
-      - name: Commit cards
+      - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/*.svg README.md
-          git commit -m "Update README cards" || exit 0
+          git commit -m "Update README (age & stats cards)" || exit 0
           git push
