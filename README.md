@@ -45,7 +45,7 @@ My role ? **Building** design interfaces. As a **Web Design Engineer**, I bridge
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://raw.githubusercontent.com/RemiAsselin42/RemiAsselin42/main/profile/top-langs.svg?v=1776749197" width="400">
+<img src="https://raw.githubusercontent.com/RemiAsselin42/RemiAsselin42/main/profile/top-langs.svg?v=1776830602" width="400">
 </p>
 
 ---
