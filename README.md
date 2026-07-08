@@ -1,17 +1,17 @@
-# <b>Hi, I'm Rémi !</b>
+# <b>Hi, I'm Rémi :)</b>
 
-### **I'm a 21yo Design Engineer bridging between UX/UI & Front-end Development**
-#### Based in Paris 🇫🇷 • Crafting pixel-perfect, accessible, and performant digital experiences.
+### **I'm a 21yo design engineer doing UX/UI & Front-end Development**
+#### Based in Paris 🇫🇷
 
 ---
 
 ### 🚀 About Me
-My role ? **Building** design interfaces. As a **Web Design Engineer**, I bridge the gap between Figma and the final product. My goal is to ensure that the creative vision is never lost in translation during the integration phase.
+My role ? I'm **Building** design interfaces. As a **web design engineer**, I bridge the gap between Figma and the final product. My goal is to ensure that the creative vision is never lost in translation during the integration phase.
 
-- 🎨 **Design with Engineering in mind**: Prototyping components that are actually buildable.
-- ⚡ **Clean Integration**: Expert in SCSS, React, and semantic HTML.
-- ♿ **Accessibility First**: Committed to RGAA/WCAG standards for an inclusive web.
-- 🤖 **AI-Enhanced Workflow**: Leveraging AI to accelerate logic and focus on UI excellence.
+- 🎨 **Prototyping components that are actually buildable.**
+- ⚡ **Clean Integration in SCSS, React, and semantic HTML.**
+- ♿ **Accessibility First, committed to RGAA/WCAG standards for an inclusive web.**
+- 🤖 **AI-Enhanced Workflow to accelerate logic and focus on UI.**
 
 ---
 
