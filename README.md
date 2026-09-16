@@ -45,7 +45,7 @@ My role ? I'm **Building** design interfaces. As a **web design engineer**, I br
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://raw.githubusercontent.com/RemiAsselin42/RemiAsselin42/main/profile/top-langs.svg?v=1789460602" width="400">
+<img src="https://raw.githubusercontent.com/RemiAsselin42/RemiAsselin42/main/profile/top-langs.svg?v=1789546634" width="400">
 </p>
 
 ---
